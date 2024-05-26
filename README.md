@@ -39,3 +39,7 @@ python main.py
 ```
 
 4. Follow the on-screen instructions to record audio and generate images.
+
+Prompt/Audio : 'A Dog in a Cyberpunk themed City'
+![image](https://github.com/Kaustic-user/Audio-to-Image-Generator-HuggingFace-API/assets/118257539/03d0aa10-f931-43f8-af94-289567a3cc4d)
+
